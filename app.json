@@ -1,5 +1,5 @@
 {
-  "name": "ALI-MD",
+  "name": "Marius Bot",
   "description": "Javascript WhatsApp bot made by ALI",
   "logo": "https://cdn.ironman.my.id/i/2du3i5.jpg",
   "keywords": ["ALI-MD"],
@@ -8,13 +8,13 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "YAYBHYSD#djJRHvLnyMkAmNBkQaZGxApAsPPEJKTQYJ5D-ZE3T6g",
       "required": true,
       "value": ""
     },  
     
     "STICKER_NAME": {
-      "description": "type your sticker pack name.",
+      "description": "From Marius.",
       "required": false,
       "value": "𓆩ု᪳𝐀𝐋𝐈-𝐌𝐃ှ᪳𓆪"
     }, 
@@ -35,14 +35,14 @@
     
     "ALWAYS_ONLINE": {
       "description": "Make it true if want always online.",
-      "required": false,
-      "value": "false"  
+      "required": true,
+      "value": "true"  
     },    
   
     "AUTO_VOICE": {
       "description": "Make it true if want automatic voice reply .",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     }, 
 
     "AUTO_REPLY": {
@@ -84,7 +84,7 @@
      }, 
 
     "BOT_NAME": {
-      "description": "Type here the bot name.",
+      "description": "Marius Bot",
       "required": false,
       "value": "𓆩ု᪳𝐀𝐋𝐈-𝐌𝐃ှ᪳𓆪"
 
@@ -98,8 +98,8 @@
 
     "DELETE_LINK": {
       "description": "Make it true if you want bot auto remove group link.",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     }, 
     
     "ANTI_LINK_KICK": {
@@ -110,8 +110,8 @@
     
     "ANTI_BAD_WORD": {
       "description": "Make it true if you want bot auto delete bad words.",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     }, 
     
     "AUTO_RECORDING": {
