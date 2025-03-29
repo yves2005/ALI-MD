@@ -42,7 +42,7 @@
     "AUTO_VOICE": {
       "description": "Make it true if want automatic voice reply .",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "AUTO_REPLY": {
