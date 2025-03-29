@@ -1,6 +1,6 @@
 {
   "name": "Marius Bot",
-  "description": "Javascript WhatsApp bot made by ALI",
+  "description": "Javascript WhatsApp bot made by Marius",
   "logo": "https://cdn.ironman.my.id/i/2du3i5.jpg",
   "keywords": ["ALI-MD"],
   "success_url": "/",
@@ -10,13 +10,13 @@
     "SESSION_ID": {
       "description": "NUhXUa7J#ZTlUdv5MbU4vmPxAja5yM9b8TRJ3wrxH3wPrC2TGGq4",
       "required": true,
-      "value": "NUhXUa7J#ZTlUdv5MbU4vmPxAja5yM9b8TRJ3wrxH3wPrC2TGGq4"
+      "value": "FEInVIiL#vrIB-6-nHwrL0vAXhu4N-hUhGU3X7I-2rO11GMz-O1o"
     },  
     
     "STICKER_NAME": {
       "description": "From Marius",
       "required": false,
-      "value": "𓆩ု᪳𝐀𝐋𝐈-𝐌𝐃ှ᪳𓆪"
+      "value": "From Marius Bot"
     }, 
       
     "PREFIX": {
@@ -86,7 +86,7 @@
     "BOT_NAME": {
       "description": "Marius Bot",
       "required": false,
-      "value": "𓆩ု᪳𝐀𝐋𝐈-𝐌𝐃ှ᪳𓆪"
+      "value": "Marius Bot"
 
       }, 
     
